@@ -1,0 +1,7 @@
+*.csproj
+*.sln
+FPSMicrogame/Temp/
+FPSMicrogame/Library/
+FPSMicrogame/UserSettings/
+FPSMicrogame/obj/
+FPSMicrogame/Logs/
